@@ -5,8 +5,7 @@
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#contact (link dos icones-->
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonCRFR&show_icons=true&theme=dracula)
-[![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRFR&layout=donut)](https://github.com/AndersonCRFR/github-readme-stats)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonCRFR&show_icons=true&theme=dracula)![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRFR&layout=donut)](https://github.com/AndersonCRFR/github-readme-stats)
 
 ### Tecnologia que Estou Aprendendo:
 
