@@ -6,7 +6,7 @@
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#contact (link dos icones-->
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonCRFR&show_icons=true&theme=dracula)<br>
-![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRFR&layout=donut)
+<!--![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRFR&layout=donut)-->
 
 ### Tecnologia que Estou Aprendendo:
 
