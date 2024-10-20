@@ -1,30 +1,22 @@
-### Anderson Cristiano Freitas Raimundo
-
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](link do seu blog)
-[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Link para seu instagran) -->
-
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk#contact (link dos icones-->
-
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonCRFR&show_icons=true&theme=dracula)<br>
-<!--![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRFR&layout=donut)-->
-
-### Tecnologia que Estou Aprendendo:
-
-<div style= "display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   
-          
-
-</div>
-Contas Sociais:
-<div>
-    <a href="https://www.linkedin.com/in/anderson-cristiano-622bb4303" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<!--![Snake animation](https://github.com/seu-usuário-aqui/AndersonCRFR/blob/output/github-contribution-grid-snake.svg)-->
+# 💫 Sobre Mim ( About Me ):
+Meu Nome é <br>
+Anderson Cristiano Freitas Raimundo<br>Bem Vindo!!
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AndersonCris.Fr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andercris_fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedanderson-cristiano-622bb4303) 
 
+# 💻 Tecnologia que estou Aprendendo (Technology I'm Learning):
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndersonCRFR&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonCRFR&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCRFR&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AndersonCRFR&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AndersonCRFR&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
